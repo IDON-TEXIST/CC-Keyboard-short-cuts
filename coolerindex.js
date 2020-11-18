@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Cookie Monster
+// @name Cookie Clicker Keyboard Shortcuts
 // @namespace Cookie
 // @include http://orteil.dashnet.org/cookieclicker/
 // @include https://orteil.dashnet.org/cookieclicker/
