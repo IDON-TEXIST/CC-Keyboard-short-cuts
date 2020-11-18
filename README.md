@@ -7,4 +7,12 @@ I literally did not write any of this code, all credit goes to whoever wrote tha
 You can run with bookmarklet or console with index.js <br>
 To use with userscript use coolerindex.js <br> 
 go to the applicable documentation for the manager you use <br>
-That is all
+That is all <br>
+I probably broke like 17 copyright laws <br>
+Crap I just realized fandom is licesned under CC-BY-SA <br>
+Uhhh where do I check edit history <br>
+Why isn't it fucking telling me who made the damn document <br> 
+lol, look at this edit <br>
+curprev 17:37, 25 September 2013‎ 173.53.16.156 talk‎ empty -3,912‎ Removing all content from page undo <br>
+Half of this is people deleting everything and others reverting the everything delete <br> 
+Ok I give up, find the source yourself, no one's ever gonna look at this anyway <br> 
