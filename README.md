@@ -5,7 +5,7 @@ and put it into a type of code that userscript can run on cookie clicker<br>
 th-thats it <br>
 I literally did not write any of this code, all credit goes to whoever wrote that lol <br>
 You can run with bookmarklet or console with index.js <br>
-To use with userscript use coolerindex.js <br> 
+To use with userscript install on https://greasyfork.org/en/scripts/416344-cookie-clicker-keyboard-shortcuts
 go to the applicable documentation for the manager you use <br>
 That is all <br>
 I probably broke like 17 copyright laws <br>
@@ -20,3 +20,4 @@ Pretend it's liscensed with CC-BY-SA too cause I don't think I can do a more ope
 Also credit to /Aktanusa/CookieMonster for giving the template for running a mod as a userscript on cookie clicker <br>
 Yea I did literally nothing besides this readme myself <br>
 This is an extra sentence because I forgot to write a commit name
+
