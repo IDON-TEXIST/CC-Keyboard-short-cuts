@@ -16,3 +16,4 @@ lol, look at this edit <br>
 curprev 17:37, 25 September 2013‎ 173.53.16.156 talk‎ empty -3,912‎ Removing all content from page undo <br>
 Half of this is people deleting everything and others reverting the everything delete <br> 
 Ok I give up, find the source yourself, no one's ever gonna look at this anyway <br> 
+Pretend it's liscensed with CC-BY-SA too cause I don't think I can do a more open liscense since I'm using one with a less open one 
