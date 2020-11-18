@@ -39,4 +39,4 @@
  	document.onkeypress = Press;
  	Game.Notify('Shortcuts enabled');
  }());
-// poopy
+// poopyhead
