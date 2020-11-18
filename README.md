@@ -18,4 +18,5 @@ Half of this is people deleting everything and others reverting the everything d
 Ok I give up, find the source yourself, no one's ever gonna look at this anyway <br> 
 Pretend it's liscensed with CC-BY-SA too cause I don't think I can do a more open liscense since I'm using one with a less open one <br>
 Also credit to /Aktanusa/CookieMonster for giving the template for running a mod as a userscript on cookie clicker <br>
-Yea I did literally nothing besides this readme myself 
+Yea I did literally nothing besides this readme myself <br>
+This is an extra sentence because I forgot to write a commit name
