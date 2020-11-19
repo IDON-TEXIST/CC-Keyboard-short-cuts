@@ -70,8 +70,8 @@ Th- That's it, that's all it does.
 4. Paste in the code, and hit enter.
 5. Repeat every time you open the game.
 # Credits 
-[/Aktanusa/CookieMonster](https://github.com/Aktanusa/CookieMonster) For the code to load the mod in the [coolerindex.js](https://github.com/IDON-TEXIST/cc-Keyboard-short-cuts/blob/main/coolerindex.js)  
-[Bloody Body](https://cookieclicker.fandom.com/wiki/User:Bloody_Body) The person who wrote, or at least added, the original code in the [index.js](https://github.com/IDON-TEXIST/cc-Keyboard-short-cuts/blob/main/index.js) at the [add-ons page](https://cookieclicker.fandom.com/wiki/Add-Ons) on the Cookie Clicker Fandom.  
+[/Aktanusa/CookieMonster](https://github.com/Aktanusa/CookieMonster) For the code to load the mod in the [coolerindex.js](index.js)  
+[Bloody Body](https://cookieclicker.fandom.com/wiki/User:Bloody_Body) The person who wrote, or at least added, the original code in the [index.js](index.js) at the [add-ons page](https://cookieclicker.fandom.com/wiki/Add-Ons) on the Cookie Clicker Fandom.  
 Yup. I didn't actually do anything. I would like to say that again, that all I did is combine 2 templates. Don't come running at me with a pitchfork please.
 # License
-This is licensed under the [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) license. I would do a more copyleft one but the problem is the Fandom is licensed under CC-BY-SA, so I can't.
+This is licensed under the [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) license. I would do a more permissve one but the problem is the Fandom is licensed under CC-BY-SA, so I can't.
