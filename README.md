@@ -7,8 +7,11 @@ It can do the following things:
 * S to open stats
 * U to open info
 * C to open Cookie Monster menu (different addon, [/Aktanusa/CookieMonster](https://github.com/Aktanusa/CookieMonster) DOES NOT WORK WITH LATEST VERSION)
-* F to open Frozen Cookies menu (Also a different addon, [/Icehawk78/FrozenCookies/](https://github.com/Icehawk78/FrozenCookies/))  
-Besides the 2 add-ons listed above and [/Icehawk78/CookieCrate](https://github.com/fmahnke/CookieCrate), this add on *will* break when combining with other add-ons, and you can only have one at a time.  
+* F to open Frozen Cookies menu (Also a different addon, [/Icehawk78/FrozenCookies/](https://github.com/Icehawk78/FrozenCookies/)). 
+	+ Note: The original version of this add on isn't compatible with the newest version, however this fork is: [/Mtarnuhal/FrozenCookies](https://github.com/Mtarnuhal/FrozenCookies)
+
+
+Besides the 2 add-ons listed above and [/Icehawk78/CookieCrate](https://github.com/fmahnke/CookieCrate), (What a surprise... not compatible with the newest version) this add on *will* break when combining with other add-ons, and you can only have one at a time.  
 # Credits 
 [/Aktanusa/CookieMonster](https://github.com/Aktanusa/CookieMonster) For the code to load the mod in the [coolerindex.js](https://github.com/IDON-TEXIST/cc-Keyboard-short-cuts/blob/main/coolerindex.js)  
 [Bloody Body](https://cookieclicker.fandom.com/wiki/User:Bloody_Body) The person who wrote, or at least added, the original code in the [index.js](https://github.com/IDON-TEXIST/cc-Keyboard-short-cuts/blob/main/index.js) at the [add-ons page](https://cookieclicker.fandom.com/wiki/Add-Ons) on the Cookie Clicker Fandom.  
