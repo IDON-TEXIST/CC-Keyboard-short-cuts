@@ -1,23 +1,17 @@
-# cc-Keyboard-short-cuts
-Ok so yeah I don't know how to code so this won't be formatted <br>
-All this is is I took the keyboard shortcut java script code from https://cookieclicker.fandom.com/wiki/Add-Ons <br>
-and put it into a type of code that userscript can run on cookie clicker<br>
-th-thats it <br>
-I literally did not write any of this code, all credit goes to whoever wrote that lol <br>
-You can run with bookmarklet or console with index.js <br>
-To use with userscript install on https://greasyfork.org/en/scripts/416344-cookie-clicker-keyboard-shortcuts
-go to the applicable documentation for the manager you use <br>
-That is all <br>
-I probably broke like 17 copyright laws <br>
-Crap I just realized fandom is licesned under CC-BY-SA <br>
-Uhhh where do I check edit history <br>
-Why isn't it fucking telling me who made the damn document <br> 
-lol, look at this edit <br>
-curprev 17:37, 25 September 2013‎ 173.53.16.156 talk‎ empty -3,912‎ Removing all content from page undo <br>
-Half of this is people deleting everything and others reverting the everything delete <br> 
-Ok I give up, find the source yourself, no one's ever gonna look at this anyway <br> 
-Pretend it's liscensed with CC-BY-SA too cause I don't think I can do a more open liscense since I'm using one with a less open one <br>
-Also credit to /Aktanusa/CookieMonster for giving the template for running a mod as a userscript on cookie clicker <br>
-Yea I did literally nothing besides this readme myself <br>
-This is an extra sentence because I forgot to write a commit name
-
+# Cookie-Clicker-Keyboard-shortcuts
+This is an extension I totally stole from 2 different people for Cookie Clicker.   
+"Well what purpose does this repo serve?" you ask. Well, the code for this only exists as source code and what I did is a took that and used Github's raw info page thingy so that this could be loaded and used as a userscript so you no longer have to enter anything into the console.
+They're keyboard shortcuts. You can add them and they'll automatically apply whenever you open cookie clicker.   
+It can do the following things:   
+* M to open options
+* S to open stats
+* U to open info
+* C to open Cookie Monster menu (different addon, [/Aktanusa/CookieMonster](https://github.com/Aktanusa/CookieMonster) DOES NOT WORK WITH LATEST VERSION)
+* F to open Frozen Cookies menu (Also a different addon, [/Icehawk78/FrozenCookies/](https://github.com/Icehawk78/FrozenCookies/))  
+Besides the 2 add-ons listed above and [/Icehawk78/CookieCrate](https://github.com/fmahnke/CookieCrate), this add on *will* break when combining with other add-ons, and you can only have one at a time.  
+# Credits 
+[/Aktanusa/CookieMonster](https://github.com/Aktanusa/CookieMonster) For the code to load the mod in the [coolerindex.js](https://github.com/IDON-TEXIST/cc-Keyboard-short-cuts/blob/main/coolerindex.js)  
+[Bloody Body](https://cookieclicker.fandom.com/wiki/User:Bloody_Body) The person who wrote, or at least added, the original code in the [index.js](https://github.com/IDON-TEXIST/cc-Keyboard-short-cuts/blob/main/index.js) at the [add-ons page](https://cookieclicker.fandom.com/wiki/Add-Ons) on the Cookie Clicker Fandom.  
+Yup. I didn't actually do anything. I would like to say that again, that all I did is combine 2 templates. Don't come running at me with a pitchfork please.
+# License
+This is licensed under the [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) license. I would do a more copyleft one but the problem is the Fandom is licensed under CC-BY-SA, so I can't.
